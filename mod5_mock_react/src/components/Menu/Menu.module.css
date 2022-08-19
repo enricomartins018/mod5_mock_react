@@ -1,0 +1,5 @@
+.menuContainer{
+    display: flex;
+    margin-top: 1rem;
+    gap: 3rem;
+}
