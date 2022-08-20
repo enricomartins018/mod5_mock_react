@@ -1,0 +1,30 @@
+.titleIndex {
+    overflow: hidden;
+    margin: 0px auto;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    text-align: center;
+    color: #888888;
+    width: 68.3vw;
+  }
+  .titleIndex > span {
+    font-size: 18px;
+    position: relative;
+    display: inline-block;
+  }
+  .titleIndex > span:before,
+  .titleIndex > span:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    border-bottom: 1px solid;
+    width: 591px;
+    margin: 0 20px;
+  }
+  .titleIndex > span:before {
+    right: 100%;
+  }
+  .titleIndex > span:after {
+    left: 100%;
+  }
