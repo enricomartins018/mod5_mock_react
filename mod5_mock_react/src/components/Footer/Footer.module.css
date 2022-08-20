@@ -1,0 +1,14 @@
+.footerIndex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-image: linear-gradient(-5deg, #707070 73%, #ffff 31%);
+} 
+
+.msgFooter{
+    margin-top: 3rem;
+    font: normal normal normal 12px/18px Helvetica Neue;
+    color: #FFFFFF;
+    text-align: center;
+}
