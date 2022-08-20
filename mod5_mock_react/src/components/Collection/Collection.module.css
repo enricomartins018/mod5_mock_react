@@ -1,0 +1,23 @@
+.collectionsPattern{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5rem;
+    margin-top: 3rem;
+}
+
+.collectionsCards{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+.btnCollection{
+    margin-bottom: 3rem;
+    width: 16.25rem;
+    height: 2.5rem;
+    color: #888888;
+}
