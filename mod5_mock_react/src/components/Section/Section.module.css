@@ -3,7 +3,8 @@ section{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 5rem;
+    gap: 11rem;
+    margin-bottom: 4rem;
 }
 
 .infoSection{
