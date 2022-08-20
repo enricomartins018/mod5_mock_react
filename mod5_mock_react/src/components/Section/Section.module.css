@@ -1,0 +1,17 @@
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
+
+.infoSection{
+    display: flex;
+    flex-direction: column;
+    width: 27rem;
+    text-align: left;
+    font: normal normal normal 12px/18px Helvetica Neue;
+    color: #888888;
+    gap: 2rem;
+}
