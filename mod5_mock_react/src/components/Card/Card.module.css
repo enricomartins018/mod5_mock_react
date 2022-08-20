@@ -1,0 +1,31 @@
+.containerPattern{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 0.6rem;
+    color: #888888;
+}
+
+.card{
+    width: 12.5rem;
+    height: 9.37rem;
+    border: solid 0.1rem;
+}
+
+.descricaoCard{
+    width: 12.7rem;
+}
+
+.btnCard{
+    color: #888888;
+    width: 12.7rem;
+    height: 1.8rem;
+}
