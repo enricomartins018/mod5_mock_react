@@ -15,13 +15,31 @@
 }
 
 .card{
-    width: 12.5rem;
+    width: 12rem;
     height: 9.37rem;
     border: solid 0.1rem;
 }
 
+.nameCard{
+    margin-top: 0.5rem;
+    font-size: 14px;
+}
+
 .descricaoCard{
     width: 12.7rem;
+    font-size: 12px;
+}
+
+.priceOldCard{
+    font-size: 12px;
+}
+
+.pricePresentCard{
+    font-weight: bold;
+}
+
+.priceInstallmentsCards{
+    font-size: 12px;
 }
 
 .btnCard{
@@ -31,6 +49,7 @@
     border-radius: 4px;
     border: 1px solid #707070;
     opacity: 1;
-    width: 12.7rem;
+    width: 12rem;
     height: 1.8rem;
+    cursor: pointer;
 }

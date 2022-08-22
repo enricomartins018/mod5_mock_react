@@ -12,7 +12,17 @@ section{
     flex-direction: column;
     width: 27rem;
     text-align: left;
-    font: normal normal normal 12px/18px Helvetica Neue;
     color: #888888;
     gap: 2rem;
+    margin-bottom: 3.3rem;
+}
+
+.titleSection{
+    width: 32rem;
+    font-size: 20px;
+}
+
+.paragraphSection{
+    width: 33rem;
+    font-size: 12px;
 }
