@@ -12,11 +12,11 @@ function App() {
     <div className="App">
       <Header />
       <Section />
-      <Title texto='Sua seleção especial' />
-      <Collection />
-      <Title texto='Compartilhe a novidade' />
-      <Share />
-      <Footer />
+      <Title texto='Sua seleção especial'/>
+      <Collection/>
+      <Title texto='Compartilhe a novidade'/>
+      <Share/>
+      <Footer/>
     </div>
   )
 }
