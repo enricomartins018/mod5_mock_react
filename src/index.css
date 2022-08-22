@@ -1,10 +1,10 @@
-*{
+* {
   margin: 0%;
   padding: 0%;
   font-family: Helvetica;
 }
 
-body{
+body {
   display: flex;
   background-color: white;
 }
