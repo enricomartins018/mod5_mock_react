@@ -1,10 +1,8 @@
-import React from 'react'
-import S from '../Button/Button.module.css'
+import React from "react";
+import S from "../Button/Button.module.css";
 
 const Button = ({ texto }) => {
-  return (
-    <button className={S.btnHeader}>{texto}</button>
-  )
-}
+  return <button className={S.btnHeader}>{texto}</button>;
+};
 
-export default Button
+export default Button;
