@@ -14,7 +14,9 @@ const Collection = () => {
             const json = await response.json();
             setInfos([...infos, ...json.products]);
         }
+
         handleReq();
+        
     }, [pagina]);
 
 
