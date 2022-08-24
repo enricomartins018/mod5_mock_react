@@ -28,6 +28,8 @@ Esquema de resposta para uma conexão sucedida:
 
 ![image](https://user-images.githubusercontent.com/102622514/186299871-c4e8fbdb-4538-4ff9-949e-a0bffa89d4f3.png)
 
+Aperte ctrl + clique com o botão direito do mouse no link disponibilizado para visualizar o site.
+
 
 
 
