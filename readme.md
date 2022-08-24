@@ -1,8 +1,21 @@
-## ⚙ Instalação da Aplicação
+<h1 >Projeto da semana 2 da Resilia Educação<h1/>
 
 ### 🔎 Sobre o projeto:
 
 Projeto da Semana 2 do módulo 5 da Resilia Educação - O Projeto consiste no desenvolvimento do layout de uma landing page com uma grade de produtos e um formulário de newsletter. Meu principal objetivo é transformar esse layout em uma página funcional, consumindo a Api disponibilizada pela minha facilitadora.
+
+### ❗ Pré Requisitos
+
+#### Node.js v.16.15.1
+
+```
+https://nodejs.org/pt-br/
+```
+#### NPM v.8.11.0
+
+```
+https://www.npmjs.com/
+```
 
 ### 👣 Siga o passo a passo para acessar o projeto: 
 
