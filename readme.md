@@ -24,7 +24,7 @@ Rode o projeto no modo de desenvolvimento:
 npm run dev
 ```
 
-Esquema de resposta para uma conexão sucedida:
+Esquema de resposta para uma conexão bem sucedida:
 
 ![image](https://user-images.githubusercontent.com/102622514/186299871-c4e8fbdb-4538-4ff9-949e-a0bffa89d4f3.png)
 
