@@ -28,9 +28,9 @@ npm run dev
 
 ![image](https://user-images.githubusercontent.com/102622514/186299871-c4e8fbdb-4538-4ff9-949e-a0bffa89d4f3.png)
 
-Aperte ctrl + clique com o botão direito do mouse no link disponibilizado para visualizar o site.
+Obs: Aperte ctrl + clique com o botão direito do mouse no link disponibilizado para visualizar o site.
 
-### 🔗 Link da API:
+### 🔗 Link da API consumida:
 
 ```
 https://frontend-intern-challenge-api.iurykrieger.vercel.app/products?page=1
